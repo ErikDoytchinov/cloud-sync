@@ -1,0 +1,23 @@
+{
+  "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dGVzdHBsdWdpbjVAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20%3D')/MailboxPermission",
+  "value": [
+    {
+      "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+      "MailboxIdentity": "0cd0d32f-e31e-447b-8dc3-9684c8b98b89",
+      "User": "NT AUTHORITY\\SELF",
+      "IsOwner": false,
+      "PermissionList": [
+        {
+          "ChangedProperties": [],
+          "AccessRights": [
+            "FullAccess",
+            "ReadPermission"
+          ],
+          "IsInherited": false,
+          "Deny": false,
+          "InheritanceType": "All"
+        }
+      ]
+    }
+  ]
+}

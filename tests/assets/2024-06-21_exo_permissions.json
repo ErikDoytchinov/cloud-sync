@@ -1,0 +1,4457 @@
+{
+    "agile.bottom@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "alias@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "alwin.schoemaker@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "andriy.belyukin@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "anita.mavridis@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "anke.bodewes@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "anubha.agarwal@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "patrick.wijntjes@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "baris.yuksel@anklice.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "baris.yuksel@pablees.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "big.koraal@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "agile.bottom@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "hoofdwachtstanna@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "M_BIG@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "bruno.broccoli@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "agile.bottom@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "craze.dash@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "chris.stanley@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "craze.dash@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "dagija.kugeviciute@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "deejay.foxy@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "departmentdamson@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "agile.bottom@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "bruno.broccoli@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "craze.dash@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "deejay.foxy@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "fancy.flip@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "memo.delight@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "rain.drift@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "salted.pip@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "departmentkoraal@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "M_KoraalGroup1"
+            }
+        ]
+    },
+    "dusan.maravic@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "dusan.shared@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "dusan.maravic@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "e2e-test-1@pablees.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "test-e2e@pablees.org"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "e2e-test-2@pablees.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "test-e2e@pablees.org"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "e2e-test-3@anklice.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "test-e2e@anklice.org"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "e2e-test-4@anklice.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "test-e2e@anklice.org"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "e2e-test-5@kolibrie.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "test-e2e@kolibrie.org"
+            }
+        ]
+    },
+    "e2e-test-6@kolibrie.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "test-e2e@kolibrie.org"
+            }
+        ]
+    },
+    "e2e-test-7@almostzivver.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "test-e2e@almostzivver.org"
+            }
+        ]
+    },
+    "e2e-test-8@almostzivver.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "test-e2e@almostzivver.org"
+            }
+        ]
+    },
+    "e2eowatesting@zivverowatest.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "enquiries@zivvertest.co.uk": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "luke.dunne@zivvertest.co.uk"
+            }
+        ]
+    },
+    "erik.steur@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "fancy.flip@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "federico.moreno@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "frank.horenberg@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "franka.smoljo@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "functie@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testaccount3@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "patrick.wijntjes@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "GROEP_functie"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "GROEP_functie_geen_mail"
+            }
+        ]
+    },
+    "gedeelde_mailbox@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "robin.ottenhof@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "mark.wijnbergen@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "Test.Account1@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "patrick.wijntjes@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "vasilis.prantzos@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "genrihs.saruhanovs@anklice.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "genrihs.saruhanovs@pablees.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "geoffrey.reemer@zivverowatest.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "hoofdwachtstanna@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "bruno.broccoli@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "salted.pip@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "M_Hoofdwacht_Anna@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "iman.dehdar@anklice.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "iman.dehdar@pablees.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "ivana.pantelic@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "jan-arie@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "patrick.wijntjes@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "jasper.wind@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "jaspershared@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "jeroen.diederix@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "job.schippers@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "jonathan.burns@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "jurre.lagerweij@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "kees.postma@anklice.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "kees.postma@pablees.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "kees.postma@zolixia.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "keyvan.azadbakht@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "laurens.hellinger@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "luke.dunne@zivvertest.co.uk": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "maarten.nagelkerke@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "maja.miljak@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "martijn.hoekstra@anklice.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "martijn.hoekstra@pablees.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "martijn.hoekstra@zolixia.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "max.saraev@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "mehak.fatima@zivverowatest.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "mehmet.erol1@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "mehmet.erol@anklice.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "mehmet.erol@pablees.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "mehmet.erol@zolixia.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "memo.delight@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "bruno.broccoli@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "craze.dash@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "mrbig@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "jan-arie@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "nada.cvejic@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "nathalia.xavier@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "nikola.gajic@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "not.shared@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "vasilis.prantzos@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "old.member@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "patrick.wijntjes@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "test.kees@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "orgsharedmailbox@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "ORG.ruchika@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "outboundsmtp@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "owashared@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "stefanos.lignos@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "patrick.wijntjes@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "job.schippers@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "plugin-e2e-user@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "postma.kees@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "quinthen.visser@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "rain.drift@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "rick.goud@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "robin.ottenhof@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "rob.coenen@molochh.nl": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "rob.coenen@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "robin.ottenhof@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "ruchika.jagotta@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "salted.pip@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "sander.hoogstraten@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "sendas.and.readandmanage@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "stef.mooij@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "vasilis.prantzos@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "shared.anke@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testaccount3@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "anke.bodewes@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "shared2@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "shared@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "geoffrey.reemer@zivverowatest.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "Test.Account1@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "patrick.wijntjes@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "stef.mooij@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "vasilis.prantzos@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "erik.steur@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "sharedjasper@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "erik.steur@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "jasper.wind@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "sharedmailboxenabled@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "sharednozivveraccount@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "anubha.agarwal@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "sharedowa@zivverowatest.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "geoffrey.reemer@zivverowatest.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "tatsiana.chumakina@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "nada.cvejic@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "sharing=caring@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "robin.ottenhof@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "alwin.schoemaker@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "geoffrey.reemer@zivverowatest.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testaccount3@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "mark.wijnbergen@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "anubha.agarwal@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "Test.Account1@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "patrick.wijntjes@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "vasilis.prantzos@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "ruchika.jagotta@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testcoconut2@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testcoconut3@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "jan-arie@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "abdullah.ibrahim@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "tatsiana.chumakina@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "stefanos.lignos@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "jasper.wind@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "job.schippers@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "max.saraev@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "nada.cvejic@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin2@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "varsha.tiwari@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "quinthen.visser@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "stef-dlp-gateway@molochh.nl": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "stef.mooij@anklice.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "stef.mooij@molochh.nl": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "stef.mooij@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "stef.shared1@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "bruno.broccoli@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "stef.shared2@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "bruno.broccoli@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "stefsharedmailbox@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "stef.mooij@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "MESG-Stef"
+            }
+        ]
+    },
+    "support@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "Test.Account1@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "stef.mooij@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "teampotato@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "bruno.broccoli@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "memo.delight@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "rain.drift@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "salted.pip@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "teamtangerine@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "bruno.broccoli@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "fancy.flip@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "memo.delight@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "teampotato@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "teo.kutaladze@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "test-e2e@almostzivver.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "test-e2e@anklice.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "test-e2e@kolibrie.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "test-e2e@pablees.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "test-shared-nonzivver1@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin2@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "test-shared-nonzivver2@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin2@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "test-shared-nonzivver3@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin9@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "test-shared-nonzivver4@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin9@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "test-shared1@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin2@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "test-shared2@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin2@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "test-shared3@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin8@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "test-shared4@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin8@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "test.account1@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testaccount4@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testaccount3@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "anubha.agarwal@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "stef.mooij@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "ruchika.jagotta@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "ORG.ruchika@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "test.kees@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "test1@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "test2@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "testaccount3@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testaccount3@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "anubha.agarwal@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "Test.Account1@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "testaccount4@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "erik.steur@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "testcoconut1@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "testcoconut2@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "testgeof@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "testmax@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "testplugin.d1@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin2@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "testplugin.d2@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin2@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "testplugin.d3@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin2@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "testplugin.d4@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin2@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "testplugin.d5@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin2@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "testplugin.d6@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin8@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "testplugin.d7@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin8@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "testplugin.d8@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin8@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "testplugin1@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "testplugin2@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin.d2@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "testplugin3@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "testplugin4@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "testplugin5@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "testplugin6@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "testplugin7@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "testplugin8@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin.d6@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "testplugin9@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "tom.schmidt@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "tom.vreeswijk@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "tyler.blanton@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "user1@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "user2@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "user3@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "user4@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "user5@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "user6@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "userpropertiestest@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "rick.goud@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "robin.ottenhof@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "jan-arie@zivvertest.onmicrosoft.com"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "tom.vreeswijk@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "valentin.henry@anklice.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "valentin.henry@pablees.org": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "core-e2e-test"
+            }
+        ]
+    },
+    "varsha.tiwari@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "vasilis.prantzos@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "vladimir.manolache@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "warco.vanderwaal@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "zivverpoc@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            }
+        ]
+    },
+    "zofp-test-shared1@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin9@zivvertest.onmicrosoft.com"
+            }
+        ]
+    },
+    "zofp-test-shared@zivvertest.onmicrosoft.com": {
+        "value": [
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ReadPermission"
+                        ]
+                    },
+                    {
+                        "AccessRights": [
+                            "FullAccess",
+                            "ExternalAccount",
+                            "ReadPermission"
+                        ]
+                    }
+                ],
+                "User": "NT AUTHORITY\\SELF"
+            },
+            {
+                "PermissionList": [
+                    {
+                        "AccessRights": [
+                            "FullAccess"
+                        ]
+                    }
+                ],
+                "User": "testplugin9@zivvertest.onmicrosoft.com"
+            }
+        ]
+    }
+}

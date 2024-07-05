@@ -1,0 +1,1938 @@
+{
+    "agile.bottom@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Agile Bottom",
+        "EmailAddresses": [
+            "agile@zivvertest.onmicrosoft.com",
+            "agile.bottom@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "1b6e3cc5-d234-4d53-9fee-70c6d7c9f9ab",
+        "Guid": "10f82795-09c2-491e-bb0b-4d2da9f13166",
+        "PrimarySmtpAddress": "agile.bottom@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "alias@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "displayname",
+        "EmailAddresses": [
+            "alias@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "d6ec342c-6764-4921-a788-dea6f1671bde",
+        "Guid": "a82e5516-0b84-4511-a925-f03c25243ace",
+        "PrimarySmtpAddress": "alias@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "alwin.schoemaker@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Alwin Schoemaker",
+        "EmailAddresses": [
+            "alwin.schoemaker@zivvertest.onmicrosoft.com",
+            "alwin@zivvertest.onmicrosoft.com",
+            "reetkever@zivvertest.onmicrosoft.com",
+            "administrator@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "bfb7517e-931e-4cc6-91a5-f8236b4fe2f0",
+        "Guid": "045b6ae4-efe9-4876-b610-e65bbefbcbd0",
+        "PrimarySmtpAddress": "alwin.schoemaker@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "andriy.belyukin@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Andriy Belyukin",
+        "EmailAddresses": [
+            "andriy.belyukin@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "51a80937-9930-4920-aa4f-b7a97ae8e4da",
+        "Guid": "beb30700-4138-45f2-864a-c3ee92f4491a",
+        "PrimarySmtpAddress": "andriy.belyukin@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "anita.mavridis@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Anita Mavridis",
+        "EmailAddresses": [
+            "anita.mavridis@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "eac28fde-f70c-48a1-ab6c-488f016472c1",
+        "Guid": "0963a989-4eab-494b-956e-bfd7cfbe446f",
+        "PrimarySmtpAddress": "anita.mavridis@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "anke.bodewes@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Anke Bodewes",
+        "EmailAddresses": [
+            "hostmaster@zivvertest.onmicrosoft.com",
+            "anke.bodewes@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "64bb6e4f-725d-4c89-b95b-da30681bad4b",
+        "Guid": "181c6597-fb23-40d8-87b0-b4268980d22e",
+        "PrimarySmtpAddress": "anke.bodewes@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "anubha.agarwal@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Anubha Agarwal",
+        "EmailAddresses": [
+            "anubha.agarwal@zivvertest.onmicrosoft.com",
+            "anabel.rosario@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "ef6cc201-398c-4313-8aa3-63e7e9dca7b1",
+        "Guid": "e219e077-7f9b-42ed-aeec-51026c1bacd8",
+        "PrimarySmtpAddress": "anubha.agarwal@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "baris.yuksel@anklice.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Baris Yuksel",
+        "EmailAddresses": [
+            "baris.yuksel@anklice.org",
+            "baris.yuksel8677@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "f1084bfa-b244-4884-9bde-558cfbaf94e9",
+        "Guid": "26e542cb-e20f-4e99-9fa9-1e2d226f30af",
+        "PrimarySmtpAddress": "baris.yuksel@anklice.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "baris.yuksel@pablees.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Baris Yuksel",
+        "EmailAddresses": [
+            "baris.yuksel@pablees.org",
+            "baris.yuksel@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "603623a8-eaa6-47a7-be0a-36719fe184c0",
+        "Guid": "963dbeba-475e-483c-b189-396ed83e06fd",
+        "PrimarySmtpAddress": "baris.yuksel@pablees.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "big.koraal@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "big.koraal",
+        "EmailAddresses": [
+            "big.koraal@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "93160d74-e049-412b-921f-512dc1309d8e",
+        "Guid": "6014b6c8-e26b-4e4b-9120-77755b2a53b7",
+        "PrimarySmtpAddress": "big.koraal@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "bruno.broccoli@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Bruno Broccoli",
+        "EmailAddresses": [
+            "bruno.alias2@zivvertest.onmicrosoft.com",
+            "bruno.alias@zivvertest.onmicrosoft.com",
+            "bruno.broccoli@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "fbf95ad5-8bf5-4d47-9999-a464fdcd3269",
+        "Guid": "a3a8209a-9e46-4905-9708-c23f4b50c7f1",
+        "PrimarySmtpAddress": "bruno.broccoli@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "chris.stanley@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Chris Stanley",
+        "EmailAddresses": [
+            "chris.stanley@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "8890655e-064b-4c67-aafe-1cdc06b9b67a",
+        "Guid": "a1e18b71-90a3-4f8c-a7c4-b4ae0b111a7d",
+        "PrimarySmtpAddress": "chris.stanley@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "craze.dash@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Craze Dash",
+        "EmailAddresses": [
+            "craze.dash@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "f0d712e7-71c3-44c4-8d6c-04c5464eadc0",
+        "Guid": "ad0ddd81-a17f-4e54-86bf-a3d1bd22691d",
+        "PrimarySmtpAddress": "craze.dash@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "dagija.kugeviciute@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Dagija Kugeviciute",
+        "EmailAddresses": [
+            "dagija.kugeviciute@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "79f4954c-0406-4ca6-8a18-9acad57df8eb",
+        "Guid": "beb4b81a-abf2-4671-9f2c-48aac084c61f",
+        "PrimarySmtpAddress": "dagija.kugeviciute@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "deejay.foxy@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Deejay Foxy",
+        "EmailAddresses": [
+            "deejay.foxy@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "b5c0451f-b217-4aa1-9aff-6b28be0dcbf8",
+        "Guid": "e4a66375-bcdc-4a20-bde8-ecb2c710b56e",
+        "PrimarySmtpAddress": "deejay.foxy@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "departmentdamson@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "Department Damson",
+        "EmailAddresses": [
+            "departmentdamson@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "c359e28a-d008-470c-bf24-70ba2e9a6110",
+        "Guid": "8be070a0-cbc2-4ebb-84a7-f56825b01d64",
+        "PrimarySmtpAddress": "departmentdamson@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "departmentkoraal@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "Department Koraal",
+        "EmailAddresses": [
+            "departmentkoraal@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "ec5e778b-2d1f-410c-8800-479fba1da2d3",
+        "Guid": "1617917e-079a-42d9-abd9-fd2679e941e1",
+        "PrimarySmtpAddress": "departmentkoraal@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "dusan.maravic@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Dusan Maravic",
+        "EmailAddresses": [
+            "dusan.maravic@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "b9bb84e9-1e76-401f-aecd-6b056b1f3e35",
+        "Guid": "39aef389-2d9e-4e1b-b580-719df67fd120",
+        "PrimarySmtpAddress": "dusan.maravic@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "dusan.shared@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "Shared DusanM",
+        "EmailAddresses": [
+            "dusan.shared@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "922f679a-eb5d-4cf0-9af7-98c355685839",
+        "Guid": "dbc8da32-5267-4f8d-b064-35b83df7b6d9",
+        "PrimarySmtpAddress": "dusan.shared@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "e2e-test-1@pablees.org": {
+        "AccountDisabled": true,
+        "DisplayName": "e2e-test-1",
+        "EmailAddresses": [
+            "e2e-test-1@zivvertest.onmicrosoft.com",
+            "e2e-test-1@pablees.org"
+        ],
+        "ExternalDirectoryObjectId": "67b4a101-7d56-417e-81d8-12754655da78",
+        "Guid": "28d405bc-9409-4887-a47c-69f3f6303983",
+        "PrimarySmtpAddress": "e2e-test-1@pablees.org",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "e2e-test-2@pablees.org": {
+        "AccountDisabled": true,
+        "DisplayName": "e2e-test-2",
+        "EmailAddresses": [
+            "e2e-test-2@zivvertest.onmicrosoft.com",
+            "e2e-test-2@pablees.org"
+        ],
+        "ExternalDirectoryObjectId": "56ab6f22-37a0-487a-aa65-f105ae02b414",
+        "Guid": "a794379d-12f9-496d-bb41-5d5e50c59e11",
+        "PrimarySmtpAddress": "e2e-test-2@pablees.org",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "e2e-test-3@anklice.org": {
+        "AccountDisabled": true,
+        "DisplayName": "e2e-test-3",
+        "EmailAddresses": [
+            "e2e-test-3@zivvertest.onmicrosoft.com",
+            "e2e-test-3@anklice.org"
+        ],
+        "ExternalDirectoryObjectId": "0a66917e-67b3-406a-8ad6-e4536e97027e",
+        "Guid": "1b68f462-a514-4fdc-9e7d-ccb84e64048c",
+        "PrimarySmtpAddress": "e2e-test-3@anklice.org",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "e2e-test-4@anklice.org": {
+        "AccountDisabled": true,
+        "DisplayName": "e2e-test-4",
+        "EmailAddresses": [
+            "e2e-test-4@zivvertest.onmicrosoft.com",
+            "e2e-test-4@anklice.org"
+        ],
+        "ExternalDirectoryObjectId": "e8c77b13-11eb-411f-a74c-86e1c39b9fcf",
+        "Guid": "a4d8e90f-73b8-42ef-a000-de88064a1969",
+        "PrimarySmtpAddress": "e2e-test-4@anklice.org",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "e2e-test-5@kolibrie.org": {
+        "AccountDisabled": true,
+        "DisplayName": "e2e-test-5",
+        "EmailAddresses": [
+            "e2e-test-5@zivvertest.onmicrosoft.com",
+            "e2e-test-5@kolibrie.org"
+        ],
+        "ExternalDirectoryObjectId": "8b34b233-5110-4514-b31a-e3c752c0df4b",
+        "Guid": "7ca6d917-825d-4c83-b208-ab077f2e9526",
+        "PrimarySmtpAddress": "e2e-test-5@kolibrie.org",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "e2e-test-6@kolibrie.org": {
+        "AccountDisabled": true,
+        "DisplayName": "e2e-test-6",
+        "EmailAddresses": [
+            "e2e-test-6@zivvertest.onmicrosoft.com",
+            "e2e-test-6@kolibrie.org"
+        ],
+        "ExternalDirectoryObjectId": "456bd825-f68a-4ee0-b8c3-322df1602da7",
+        "Guid": "1cf73e51-8609-4e18-aebc-67b391de39b0",
+        "PrimarySmtpAddress": "e2e-test-6@kolibrie.org",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "e2e-test-7@almostzivver.org": {
+        "AccountDisabled": true,
+        "DisplayName": "e2e-test-7",
+        "EmailAddresses": [
+            "e2e-test-7@zivvertest.onmicrosoft.com",
+            "e2e-test-7@almostzivver.org"
+        ],
+        "ExternalDirectoryObjectId": "46e9bbaf-8b09-432e-9a30-0c471b4f4266",
+        "Guid": "ddd29f93-35a9-4ed9-a7d1-20db7a2b1810",
+        "PrimarySmtpAddress": "e2e-test-7@almostzivver.org",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "e2e-test-8@almostzivver.org": {
+        "AccountDisabled": true,
+        "DisplayName": "e2e-test-8",
+        "EmailAddresses": [
+            "e2e-test-8@zivvertest.onmicrosoft.com",
+            "e2e-test-8@almostzivver.org"
+        ],
+        "ExternalDirectoryObjectId": "68b2db4f-c627-4a60-acf5-7f946518e302",
+        "Guid": "5c5c5d06-92ee-42ae-8389-fcf23c0bad8b",
+        "PrimarySmtpAddress": "e2e-test-8@almostzivver.org",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "e2eowatesting@zivverowatest.com": {
+        "AccountDisabled": false,
+        "DisplayName": "e2eowatesting",
+        "EmailAddresses": [
+            "e2eowatesting@zivverowatest.com",
+            "e2eowatesting@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "b4fe6253-5010-4a63-a5c3-c9f0a7d47441",
+        "Guid": "7dbf5aa2-bf7e-460d-8b29-7ba0fc3fb297",
+        "PrimarySmtpAddress": "e2eowatesting@zivverowatest.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "enquiries@zivvertest.co.uk": {
+        "AccountDisabled": true,
+        "DisplayName": "Enquiries",
+        "EmailAddresses": [
+            "enquiries@zivvertest.onmicrosoft.com",
+            "enquiries@zivvertest.co.uk"
+        ],
+        "ExternalDirectoryObjectId": "246d53ae-53b8-47bc-a3e2-1ea4c10dafae",
+        "Guid": "b9422375-722e-4911-845b-7e4ba2ba89f6",
+        "PrimarySmtpAddress": "enquiries@zivvertest.co.uk",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "erik.steur@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Erik Steur",
+        "EmailAddresses": [
+            "erik.steur.alias@zivvertest.onmicrosoft.com",
+            "erik.steur@zivvertest.onmicrosoft.com",
+            "erik.steur.upn@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "1a29edaf-3a7f-4001-bf5a-39afd211c462",
+        "Guid": "ed203335-be53-4d61-9db2-652a6d98a513",
+        "PrimarySmtpAddress": "erik.steur@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "fancy.flip@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Fancy Flip",
+        "EmailAddresses": [
+            "fancy@zivvertest.onmicrosoft.com",
+            "fancy.flip@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "9bac80e9-5a15-4c70-bc2e-4d742c76a15d",
+        "Guid": "ce2ff9c3-daaf-4b5a-be5f-ad851ce4c77c",
+        "PrimarySmtpAddress": "fancy.flip@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "federico.moreno@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Federico Moreno",
+        "EmailAddresses": [
+            "federico.moreno@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "e9c53943-477a-43c7-bc9b-26841e6d6408",
+        "Guid": "617cf7ed-f9e8-4ad6-a68b-56ebfe093477",
+        "PrimarySmtpAddress": "federico.moreno@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "frank.horenberg@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Frank Horenbarg",
+        "EmailAddresses": [
+            "frank@zivvertest.onmicrosoft.com",
+            "frank.horenberg@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "22c5b364-5de6-4316-ad8b-e8050c66d6fe",
+        "Guid": "f635d238-fe4a-45b6-9d54-5a487cf8c32a",
+        "PrimarySmtpAddress": "frank.horenberg@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "franka.smoljo@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Franka Smoljo",
+        "EmailAddresses": [
+            "franka.smoljo@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "1235d6aa-6572-4050-a885-fcb6e8cca8f6",
+        "Guid": "73403308-fdbf-47e3-b4b1-15812336d343",
+        "PrimarySmtpAddress": "franka.smoljo@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "functie@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "Functie",
+        "EmailAddresses": [
+            "functie@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "a3458ad0-d6e4-40c2-b1dd-b75b9537135e",
+        "Guid": "9dac0709-d3a8-42a0-ae7f-ec754082e55c",
+        "PrimarySmtpAddress": "functie@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "gedeelde_mailbox@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "Gedeelde Mailbox",
+        "EmailAddresses": [
+            "gedeelde_mailbox@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "e4df74a3-428a-4455-850d-ef365ba3d0d3",
+        "Guid": "84d7ebcb-a27e-464a-b62c-9c5af7055c39",
+        "PrimarySmtpAddress": "gedeelde_mailbox@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "genrihs.saruhanovs@anklice.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Genrihs Saruhanovs",
+        "EmailAddresses": [
+            "genrihs.saruhanovs@anklice.org",
+            "genrihs.saruhanovs0410@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "f2529ff8-6516-423a-8d35-bc415bd3dc0d",
+        "Guid": "c503a385-46a8-4885-9b1f-400da280f41b",
+        "PrimarySmtpAddress": "genrihs.saruhanovs@anklice.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "genrihs.saruhanovs@pablees.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Genrihs Saruhanovs",
+        "EmailAddresses": [
+            "genrihs.saruhanovs@pablees.org",
+            "genrihs.saruhanovs@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "2f32b931-2400-4cf2-86ee-30e0176ef144",
+        "Guid": "22900a12-1aea-45db-a033-adf7206f2e44",
+        "PrimarySmtpAddress": "genrihs.saruhanovs@pablees.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "geoffrey.reemer@zivverowatest.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Geoffrey Reemer",
+        "EmailAddresses": [
+            "geoffrey.reemer@zivverowatest.com",
+            "geoffrey@zivverowatest.com",
+            "geoffrey.reemer@zivvertest.onmicrosoft.com",
+            "admin@zivverowatest.com"
+        ],
+        "ExternalDirectoryObjectId": "45960aa2-3574-4091-be5e-0dc468b0f276",
+        "Guid": "f357a45f-593e-4335-84bd-6376e1a552a7",
+        "PrimarySmtpAddress": "geoffrey.reemer@zivverowatest.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "hoofdwachtstanna@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "hoofdwachtstanna",
+        "EmailAddresses": [
+            "hoofdwachtstanna@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "606280b7-4aa8-4562-8dd7-5e3442b32731",
+        "Guid": "9b14d27c-ad89-4d64-a97f-ab586b95717e",
+        "PrimarySmtpAddress": "hoofdwachtstanna@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "iman.dehdar@anklice.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Iman Dehdar",
+        "EmailAddresses": [
+            "iman.dehdar@anklice.org",
+            "iman.dehdar8322@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "21724c18-7625-423b-b6ce-17b1d33cd210",
+        "Guid": "05cb75b5-55e0-49a9-ab18-b36648a81428",
+        "PrimarySmtpAddress": "iman.dehdar@anklice.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "iman.dehdar@pablees.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Iman Dehdar",
+        "EmailAddresses": [
+            "iman.dehdar@pablees.org",
+            "iman.dehdar@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "3fa170db-c831-44d1-8550-29faf1f3e115",
+        "Guid": "b89a80cf-1058-4f24-8bd9-9011d1b1356b",
+        "PrimarySmtpAddress": "iman.dehdar@pablees.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "ivana.pantelic@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Ivana Pantelic",
+        "EmailAddresses": [
+            "ivana.pantelic@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "f971d32e-51da-4e61-bed5-131eb0e133ce",
+        "Guid": "5d7f8621-e46b-4cd5-ae47-1e73287b2a65",
+        "PrimarySmtpAddress": "ivana.pantelic@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "jan-arie@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Jan-Arie Snijders",
+        "EmailAddresses": [
+            "fanvanpat@zivvertest.onmicrosoft.com",
+            "jan-arie@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "e3a8a420-f16f-4527-9fa7-f6f4771c4b90",
+        "Guid": "64f41c98-1a05-4af6-87da-ebf99b57c5a1",
+        "PrimarySmtpAddress": "jan-arie@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "jasper.wind@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Jasper Wind",
+        "EmailAddresses": [
+            "jasper.wind@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "ee360d77-f04d-48e3-8a30-db2ce560a9f4",
+        "Guid": "71b93e24-f532-4905-b9fc-e6d14fe149dd",
+        "PrimarySmtpAddress": "jasper.wind@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "jaspershared@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "Jasper Shared",
+        "EmailAddresses": [
+            "jaspershared@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "4e6d7bae-f507-4d29-bdb0-7be23ab9b1ee",
+        "Guid": "a3d7100e-3614-4429-856d-5e21c7e07fbf",
+        "PrimarySmtpAddress": "jaspershared@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "jeroen.diederix@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Jeroen Diederix",
+        "EmailAddresses": [
+            "jeroen.diederix@zivvertest.onmicrosoft.com",
+            "jeroen.diederix@leakfreemail.com"
+        ],
+        "ExternalDirectoryObjectId": "77533df2-ac9c-47a9-8079-8a2b248c787f",
+        "Guid": "ae4f3d02-b9b0-48a4-9d55-63801cc38623",
+        "PrimarySmtpAddress": "jeroen.diederix@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "job.schippers@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Job Schippers",
+        "EmailAddresses": [
+            "job.schippers@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "eb2e07e4-3b04-48e8-b9e7-0b9a89f572a4",
+        "Guid": "698ea3d0-147c-4acb-95ff-4b3a877e0e3c",
+        "PrimarySmtpAddress": "job.schippers@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "jonathan.burns@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Jonathan Burns",
+        "EmailAddresses": [
+            "jonathan.burns@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "8049c898-04b5-4f1f-b166-1094c49bb9eb",
+        "Guid": "0f7aa2e1-918a-4fce-925b-c15152340927",
+        "PrimarySmtpAddress": "jonathan.burns@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "jurre.lagerweij@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Jurre Lagerweij",
+        "EmailAddresses": [
+            "jurre.lagerweij@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "f4484249-c59c-481d-9ae8-f36c8672ef75",
+        "Guid": "53423d1f-e08a-47d7-80f2-3f28e935bf8d",
+        "PrimarySmtpAddress": "jurre.lagerweij@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "kees.postma@anklice.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Kees Postma",
+        "EmailAddresses": [
+            "admin@anklice.org",
+            "kees.postma@anklice.org",
+            "kees.postma9287@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "ba3aef9d-6f93-4bdd-a32d-7483659f64f5",
+        "Guid": "966bb208-fd63-42a8-b266-c3cc97163390",
+        "PrimarySmtpAddress": "kees.postma@anklice.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "kees.postma@pablees.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Kees Postma",
+        "EmailAddresses": [
+            "admin@pablees.org",
+            "kees.postma@pablees.org",
+            "kees.postma@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "b0662ec2-e751-46b5-9ece-7243e53454e5",
+        "Guid": "2a0a9a6d-db83-4929-8d37-f5901c549a42",
+        "PrimarySmtpAddress": "kees.postma@pablees.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "kees.postma@zolixia.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Kees Postma",
+        "EmailAddresses": [
+            "admin@zolixia.org",
+            "kees.postma@zolixia.org",
+            "kees.postma2729@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "2b14cbcf-8c5b-4764-9566-d11f7ba51fd0",
+        "Guid": "5d396a9d-5978-4944-a762-ff98d67af57d",
+        "PrimarySmtpAddress": "kees.postma@zolixia.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "keyvan.azadbakht@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Keyvan Azadbhakt",
+        "EmailAddresses": [
+            "keyvan.azadbakht@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "a851c849-8900-4640-a3a5-ccb6c2f137a8",
+        "Guid": "e1888557-59b5-4503-90d7-5954493b9f7b",
+        "PrimarySmtpAddress": "keyvan.azadbakht@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "laurens.hellinger@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Laurens Hellinger",
+        "EmailAddresses": [
+            "laurens.hellinger@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "0317f127-358d-4d37-968b-7877304c211f",
+        "Guid": "fb4f2656-e4b9-4dae-9174-8c0cc696a02e",
+        "PrimarySmtpAddress": "laurens.hellinger@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "luke.dunne@zivvertest.co.uk": {
+        "AccountDisabled": false,
+        "DisplayName": "Luke Dunne",
+        "EmailAddresses": [
+            "postmaster@zivvertest.co.uk",
+            "luke.dunne@zivvertest.co.uk",
+            "luke.dunne@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "70f09980-d3e6-4adf-8c4e-383c494c994b",
+        "Guid": "e7b6e8a2-6792-4cf7-8b82-b882c2645478",
+        "PrimarySmtpAddress": "luke.dunne@zivvertest.co.uk",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "maarten.nagelkerke@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Maarten Nagelkerke",
+        "EmailAddresses": [
+            "maarten.nagelkerke@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "d072ad5e-90d0-4418-8374-107c0ce8b3c6",
+        "Guid": "35d30455-0b83-4da4-8120-3c9d1f79c51f",
+        "PrimarySmtpAddress": "maarten.nagelkerke@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "maja.miljak@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Maja Miljak",
+        "EmailAddresses": [
+            "maja.miljak@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "f3a8721a-a2d2-4118-80f5-92b04ea52423",
+        "Guid": "c79a9e8c-4bf7-4a69-9e63-3a904fd78879",
+        "PrimarySmtpAddress": "maja.miljak@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "martijn.hoekstra@anklice.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Martijn Hoekstra",
+        "EmailAddresses": [
+            "martijn.hoekstra@anklice.org",
+            "martijn.hoekstra0146@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "5dd8988d-4608-4b5a-b8d4-ad08ea5aef56",
+        "Guid": "5e12341f-2d1d-48f7-8adc-ea9c38e234b7",
+        "PrimarySmtpAddress": "martijn.hoekstra@anklice.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "martijn.hoekstra@pablees.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Martijn Hoekstra",
+        "EmailAddresses": [
+            "martijn.hoekstra@zivvertest.onmicrosoft.com",
+            "martijn.hoekstra@pablees.org"
+        ],
+        "ExternalDirectoryObjectId": "4319ddae-1b79-4755-8295-c61a9dc2c70a",
+        "Guid": "fc60896a-d598-4c98-b597-9f002d54d275",
+        "PrimarySmtpAddress": "martijn.hoekstra@pablees.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "martijn.hoekstra@zolixia.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Martijn Hoekstra",
+        "EmailAddresses": [
+            "martijn.hoekstra@zolixia.org",
+            "martijn.hoekstra8613@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "feeabfb8-4256-453a-94f8-7dfdc5ddf141",
+        "Guid": "5c2e309a-235c-44e0-8938-7567db28e049",
+        "PrimarySmtpAddress": "martijn.hoekstra@zolixia.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "max.saraev@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Max Saraev",
+        "EmailAddresses": [
+            "max.saraev@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "15545c1f-35bc-41be-86a6-c85815ff0b17",
+        "Guid": "73b0b267-b93c-4249-ad2c-d245b2f5dd72",
+        "PrimarySmtpAddress": "max.saraev@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "mehak.fatima@zivverowatest.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Mehak",
+        "EmailAddresses": [
+            "mehak.fatima@zivverowatest.com",
+            "e2eowa@zivverowatest.com",
+            "mehak.fatima@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "e574570c-e44b-44aa-8898-154ec800b3cb",
+        "Guid": "1bd12d73-4bca-4428-bb1a-036afa9a0944",
+        "PrimarySmtpAddress": "mehak.fatima@zivverowatest.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "mehmet.erol1@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Mehmet Erol",
+        "EmailAddresses": [
+            "mehmet.erol1@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "cda5dbf6-1992-491a-95fd-dfc4024dd877",
+        "Guid": "99e9f6d4-9bb3-4f27-b5ba-208461fbaa0f",
+        "PrimarySmtpAddress": "mehmet.erol1@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "mehmet.erol@anklice.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Mehmet Erol",
+        "EmailAddresses": [
+            "administrator@anklice.org",
+            "admin@encrypted.nl.anklice.org",
+            "mehmet.erol@anklice.org",
+            "mehmet.erol6506@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "be6ed64a-9a0d-455c-8287-36d777d39a18",
+        "Guid": "dc502043-841e-4aec-b244-ef52357f33ac",
+        "PrimarySmtpAddress": "mehmet.erol@anklice.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "mehmet.erol@pablees.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Mehmet Erol",
+        "EmailAddresses": [
+            "mehmet.erol@pablees.org",
+            "mehmet.erol@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "1cca463b-1692-4519-a262-44f582cdfa62",
+        "Guid": "fa996134-ff4c-4271-b3a4-156b7f210332",
+        "PrimarySmtpAddress": "mehmet.erol@pablees.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "mehmet.erol@zolixia.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Mehmet Erol",
+        "EmailAddresses": [
+            "mehmet.erol@zolixia.org",
+            "mehmet.erol8997@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "5eca2ddc-f8cd-4048-8eb9-e4929c33cf47",
+        "Guid": "cd32014e-379c-4058-b860-93ca9d6dd26d",
+        "PrimarySmtpAddress": "mehmet.erol@zolixia.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "memo.delight@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Memo Delight",
+        "EmailAddresses": [
+            "memo.delight@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "d25060e2-3dca-415a-82ee-f85ad087b3eb",
+        "Guid": "ddf3285b-7828-47f0-a199-f474f6966031",
+        "PrimarySmtpAddress": "memo.delight@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "mrbig@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Mr Big",
+        "EmailAddresses": [
+            "mrbig@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "3ac00022-acd9-45ee-805d-facb882e7723",
+        "Guid": "d41f4206-acce-42d9-828f-77a335499d25",
+        "PrimarySmtpAddress": "mrbig@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "nada.cvejic@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Nada Cvejic",
+        "EmailAddresses": [
+            "nada.cvejic@zivvertest.onmicrosoft.com",
+            "nadac@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "ec1c00b4-7ca6-4096-bb14-39db62300563",
+        "Guid": "20882e74-3225-426e-859c-1a218c41e011",
+        "PrimarySmtpAddress": "nada.cvejic@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "nathalia.xavier@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Nathalia Xavier",
+        "EmailAddresses": [
+            "nathalia.xavier@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "24ae2930-7945-424f-8d8b-27ee2852192f",
+        "Guid": "2fbf8b8d-f851-45a3-b74a-70a31f0aa1f0",
+        "PrimarySmtpAddress": "nathalia.xavier@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "nikola.gajic@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Nikola Gajic",
+        "EmailAddresses": [
+            "nikola.gajic@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "b7322d63-7506-4bb1-be42-6299ac3b981e",
+        "Guid": "008a3e4a-581b-480a-9131-f801024998d7",
+        "PrimarySmtpAddress": "nikola.gajic@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "not.shared@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "not shared",
+        "EmailAddresses": [
+            "not.shared@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "6776cda6-e186-4a43-bc1c-95bd63ceb586",
+        "Guid": "2f57b6f9-14b4-43f2-b7ff-702ddac3f4ff",
+        "PrimarySmtpAddress": "not.shared@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "old.member@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "old.member",
+        "EmailAddresses": [
+            "old.member@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "854a7816-01b7-4abd-8f1b-ae4fd42ca8e8",
+        "Guid": "53c7fbe0-a1c5-460b-a22e-b769b6a8ad56",
+        "PrimarySmtpAddress": "old.member@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "orgsharedmailbox@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "[ORG] Shared Mailbox Test",
+        "EmailAddresses": [
+            "orgsharedmailbox@zivvertest.onmicrosoft.com",
+            "enforcesharedmailbox@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "1c3804bc-5d67-4036-a53e-b935dd9e7da7",
+        "Guid": "2a1faf15-c06d-42d9-b442-7755d3d2f5cf",
+        "PrimarySmtpAddress": "orgsharedmailbox@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "outboundsmtp@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "outboundsmtp",
+        "EmailAddresses": [
+            "outboundsmtp@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "a062af1a-2001-4a16-9efa-ecfa6cccc8aa",
+        "Guid": "6fea3928-52c7-41e5-afb0-bf9530f1c2ef",
+        "PrimarySmtpAddress": "outboundsmtp@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "owashared@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "OWA shared mailbox",
+        "EmailAddresses": [
+            "owasharedalias@zivvertest.onmicrosoft.com",
+            "owashared@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "38921932-3f92-4eaa-bebd-41d9b5f71ccd",
+        "Guid": "62251f74-b375-4cf3-a58e-9f3558e8b044",
+        "PrimarySmtpAddress": "owashared@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "patrick.wijntjes@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Patrick Wijntjes",
+        "EmailAddresses": [
+            "patrick.wijntjes@zivvertest.onmicrosoft.com",
+            "patrick.wijntjes.anders@zivvertest.onmicrosoft.com",
+            "postmaster@zivvertest.onmicrosoft.com",
+            "p.wijntjes@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "b1a2d35f-e769-406e-9795-7b01319b2c3f",
+        "Guid": "504392f5-18a3-43bd-9576-10e8fd3abdf6",
+        "PrimarySmtpAddress": "patrick.wijntjes@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "plugin-e2e-user@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "plugin-e2e-user",
+        "EmailAddresses": [
+            "plugin-e2e-user@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "e6cf11cd-67a5-4aaa-a9da-89460177cb41",
+        "Guid": "d56769da-ef18-410f-b98d-4df92d695042",
+        "PrimarySmtpAddress": "plugin-e2e-user@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "postma.kees@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Kees Postma",
+        "EmailAddresses": [
+            "postma.kees@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "214e88a7-0904-4376-b4ca-53310f35fe12",
+        "Guid": "8adcaed6-773b-415c-b177-c59d95ebc73f",
+        "PrimarySmtpAddress": "postma.kees@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "quinthen.visser@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Quinthen Visser",
+        "EmailAddresses": [
+            "quinthen.visser@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "ce553633-94ea-4add-b520-3eb6a3fb707c",
+        "Guid": "d0fe6221-df96-47cc-a0bd-bb10976bfa41",
+        "PrimarySmtpAddress": "quinthen.visser@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "rain.drift@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Rain Drift",
+        "EmailAddresses": [
+            "rain.drift@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "f04ec7d0-3993-4b5e-9511-2a53b3e43215",
+        "Guid": "f5fc37d9-e33f-4dc4-b3d4-25a33ed1d658",
+        "PrimarySmtpAddress": "rain.drift@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "rick.goud@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Rick Goud",
+        "EmailAddresses": [
+            "rick.goud@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "6e97947f-fce5-446a-bd23-37083ac1a815",
+        "Guid": "fa2bafb4-01b5-42a2-aa21-3d1cef68f2d0",
+        "PrimarySmtpAddress": "rick.goud@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "rob.coenen@molochh.nl": {
+        "AccountDisabled": false,
+        "DisplayName": "Rob Coenen",
+        "EmailAddresses": [
+            "rob.coenen@molochh.nl"
+        ],
+        "ExternalDirectoryObjectId": "a4bb4b5a-4712-47fa-875a-4ae53d06e249",
+        "Guid": "ba73aed7-0a71-4939-aa81-8524074e8c4c",
+        "PrimarySmtpAddress": "rob.coenen@molochh.nl",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "rob.coenen@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Rob Coenen",
+        "EmailAddresses": [
+            "rob.coenen@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "64d203f5-d9ac-493b-b77d-2aef58f40107",
+        "Guid": "eccbc556-2e6d-45e6-a80a-124363dc0059",
+        "PrimarySmtpAddress": "rob.coenen@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "robin.ottenhof@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Robin Ottenhof",
+        "EmailAddresses": [
+            "robin.ottenhof@stef.zivvertest.onmicrosoft.com",
+            "postmaster@stef.zivvertest.onmicrosoft.com",
+            "robin.ottenhof@zivvertest.onmicrosoft.com",
+            "test.account@zivvertest.onmicrosoft.com",
+            "test.account@leakfreemail.com",
+            "admin@zivvertest.onmicrosoft.com",
+            "hoofdletter@zivvertest.onmicrosoft.com",
+            "hoofdletter2@zivvertest.onmicrosoft.com",
+            "alias_voor_test@zivvertest.onmicrosoft.com",
+            "#test.account@zivvertest.onmicrosoft.com",
+            "alias_pop3_voor_test@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "5fca716a-55bf-4c34-8060-616f8ea7dc4f",
+        "Guid": "ea2f421a-484e-46b7-8401-c56875f5e517",
+        "PrimarySmtpAddress": "robin.ottenhof@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "ruchika.jagotta@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Ruchika Jagotta",
+        "EmailAddresses": [
+            "ruchika@zivvertest.onmicrosoft.com",
+            "ruchika.jagotta@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "550ae441-add6-4d4b-9f57-5ddd6c99691e",
+        "Guid": "de80b4ee-721b-4b09-9001-e18f58b5d50b",
+        "PrimarySmtpAddress": "ruchika.jagotta@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "salted.pip@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Salted Pip",
+        "EmailAddresses": [
+            "salted.pip@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "2a288e36-2504-4050-af71-e3d7e3104949",
+        "Guid": "9c18b838-98b7-413d-adec-d63ad5588eee",
+        "PrimarySmtpAddress": "salted.pip@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "sander.hoogstraten@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Sander Hoogstraten",
+        "EmailAddresses": [
+            "sander.hoogstraten@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "6d4e47e8-2a50-48e9-b470-e606b4368209",
+        "Guid": "b327a214-6536-4892-bafb-56cf8d33943e",
+        "PrimarySmtpAddress": "sander.hoogstraten@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "sendas.and.readandmanage@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "sendas.and.readandmanage",
+        "EmailAddresses": [
+            "sendas.and.readandmanage@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "5323c84a-ff22-4728-93b2-407283c0d5f1",
+        "Guid": "6299bb9d-d970-443d-ae0e-564e6a0e8fe0",
+        "PrimarySmtpAddress": "sendas.and.readandmanage@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "shared.anke@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "Shared Anke",
+        "EmailAddresses": [
+            "shared.anke@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "eab29b86-2dba-4af0-985f-2b012a7dcd38",
+        "Guid": "fc2c04ca-41a8-4ce9-8412-21a3848f9640",
+        "PrimarySmtpAddress": "shared.anke@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "shared2@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "handover",
+        "EmailAddresses": [
+            "shared2@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "15b937a4-1e1e-4905-b8e5-58807c77272a",
+        "Guid": "8eaf9bb1-b47b-43a4-be89-478b9af36334",
+        "PrimarySmtpAddress": "shared2@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "shared@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "Shared",
+        "EmailAddresses": [
+            "shared@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "cfeb311e-9d74-4eb5-94af-f3c179b99220",
+        "Guid": "17d0054c-fc23-47bf-b1d7-4c2f74be5f2a",
+        "PrimarySmtpAddress": "shared@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "sharedjasper@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "SharedJasper",
+        "EmailAddresses": [
+            "sharedjasper@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "2909d376-bef6-41e9-8880-723dbbbde651",
+        "Guid": "fdc3246b-56ba-4962-9567-a47da9dd92ac",
+        "PrimarySmtpAddress": "sharedjasper@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "sharedmailboxenabled@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "sharedmailboxenabled",
+        "EmailAddresses": [
+            "sharedmailboxenabled@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "8087b939-4619-4b6b-be67-0274b495f1c4",
+        "Guid": "59e45af8-2e70-4a07-a482-58ee0df96151",
+        "PrimarySmtpAddress": "sharedmailboxenabled@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "sharednozivveraccount@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "sharednozivveraccount",
+        "EmailAddresses": [
+            "sharednozivveraccount@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "38f0aa04-83db-43c1-b56b-bba63ccc3009",
+        "Guid": "9bd16638-b283-496c-8ba6-50a3c6e5a1da",
+        "PrimarySmtpAddress": "sharednozivveraccount@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "sharedowa@zivverowatest.com": {
+        "AccountDisabled": true,
+        "DisplayName": "Shared OWA Test",
+        "EmailAddresses": [
+            "sharedowa@zivvertest.onmicrosoft.com",
+            "sharedowa@zivverowatest.com"
+        ],
+        "ExternalDirectoryObjectId": "dfaa12ac-ffeb-451d-a7fb-b99673954c47",
+        "Guid": "1a236558-6ac9-478c-894c-c61ee4d199ba",
+        "PrimarySmtpAddress": "sharedowa@zivverowatest.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "sharing=caring@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "Sharing = Caring",
+        "EmailAddresses": [
+            "sharing=caring@zivvertest.onmicrosoft.com",
+            "sharingequalscaring@zivvertest.onmicrosoft.com",
+            "sharingcaring@zivvertest.onmicrosoft.com",
+            "sharingiscaring@zivvertest.onmicrosoft.com",
+            "g45807406c8b44404be4429d547502bdd@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "8e59695c-c3df-4e6e-90e5-6e5edaa947eb",
+        "Guid": "419c48d3-1d14-4505-bbcf-2b3a062f0e5f",
+        "PrimarySmtpAddress": "sharing=caring@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "stef-dlp-gateway@molochh.nl": {
+        "AccountDisabled": false,
+        "DisplayName": "Stef DLP-Gateway",
+        "EmailAddresses": [
+            "stef-dlp-gateway@molochh.nl",
+            "stef-dlp-gateway@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "181ebf96-f301-4fd4-98a3-e9e9f6a48c36",
+        "Guid": "cbdcc0ac-e763-4103-91e2-c2e12660f9cd",
+        "PrimarySmtpAddress": "stef-dlp-gateway@molochh.nl",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "stef.mooij@anklice.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Stef Mooij",
+        "EmailAddresses": [
+            "stef.mooij@anklice.org",
+            "stef.mooij2825@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "76a9e3bd-c3db-467e-8864-e651de406815",
+        "Guid": "e61ee724-ef39-4c8e-96f3-28bf6ac06850",
+        "PrimarySmtpAddress": "stef.mooij@anklice.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "stef.mooij@molochh.nl": {
+        "AccountDisabled": false,
+        "DisplayName": "stef mooij",
+        "EmailAddresses": [
+            "stef.mooij@molochh.nl",
+            "stef@secure.molochh.nl",
+            "admin@secure.molochh.nl",
+            "dmarc-reports@molochh.nl",
+            "admin@molochh.nl",
+            "stef.mooij@secure.molochh.nl"
+        ],
+        "ExternalDirectoryObjectId": "c9b951d1-a3df-4e51-9bcd-0741f2baee37",
+        "Guid": "abb070c5-e3c1-4733-a645-d621912b5c35",
+        "PrimarySmtpAddress": "stef.mooij@molochh.nl",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "stef.mooij@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Stef Mooij",
+        "EmailAddresses": [
+            "stef.mooij@stef.zivvertest.onmicrosoft.com",
+            "stef.mooij@zivvertest.onmicrosoft.com",
+            "admin@stef.zivvertest.onmicrosoft.com",
+            "webmaster@stef.zivvertest.onmicrosoft.com",
+            "webmaster@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "49452ce3-9646-4ed0-9528-19bff6d4e545",
+        "Guid": "cfd8e608-f48e-412d-852f-e025f7e5f1d5",
+        "PrimarySmtpAddress": "stef.mooij@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "stef.shared1@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "stef.shared1",
+        "EmailAddresses": [
+            "stef.shared1@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "1ce7851e-e3bc-465d-9101-2604063e443b",
+        "Guid": "52cb60b2-24d9-4fb2-90be-1f24ba5af1a2",
+        "PrimarySmtpAddress": "stef.shared1@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "stef.shared2@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "stef.shared2",
+        "EmailAddresses": [
+            "stef.shared2@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "5163698b-0db7-4af2-a8c8-1966c49e288f",
+        "Guid": "f078c548-f3a0-4a39-aff6-72e60620cfb8",
+        "PrimarySmtpAddress": "stef.shared2@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "stefsharedmailbox@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "Stef's Shared Mailbox",
+        "EmailAddresses": [
+            "stefsharedmailboxalias@zivvertest.onmicrosoft.com",
+            "stefsharedmailbox@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "1fbbed40-4d83-451e-b903-96dafac7350c",
+        "Guid": "a47677e4-d9fc-4d23-9356-8325db2612ef",
+        "PrimarySmtpAddress": "stefsharedmailbox@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "support@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "Support",
+        "EmailAddresses": [
+            "support@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "ce85ceba-2a47-468e-9d79-20fd265ced13",
+        "Guid": "3487d49e-c4ca-4194-9731-ad3ea03c36dd",
+        "PrimarySmtpAddress": "support@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "teampotato@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "Team Potato",
+        "EmailAddresses": [
+            "teampotato@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "f0a8293f-074b-455d-b646-d461c6153406",
+        "Guid": "a0a6c7dd-9c27-4005-a488-d79a4c310452",
+        "PrimarySmtpAddress": "teampotato@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "teamtangerine@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "Team Tangerine",
+        "EmailAddresses": [
+            "team1@zivvertest.onmicrosoft.com",
+            "teamtangerine@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "6b74ee1f-7b57-4204-a0a6-31590f26615a",
+        "Guid": "592e0860-efef-4d11-9842-3bacbec58a36",
+        "PrimarySmtpAddress": "teamtangerine@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "teo.kutaladze@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "teo kutaladze",
+        "EmailAddresses": [
+            "teo.kutaladze@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "e44440d9-6316-4921-8a57-67f7cfe35948",
+        "Guid": "cfdb2a34-73b8-417b-abd8-adf8397befa5",
+        "PrimarySmtpAddress": "teo.kutaladze@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "test-e2e@almostzivver.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Test-e2e almostzivver",
+        "EmailAddresses": [
+            "test-e2e@almostzivver.org",
+            "test-e2e7455@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "fb0b4c65-c07c-4ff6-a2a6-b162d390e4b7",
+        "Guid": "e08c3343-3655-442c-9e35-cccecba4d1e5",
+        "PrimarySmtpAddress": "test-e2e@almostzivver.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "test-e2e@anklice.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Test e2e anklice",
+        "EmailAddresses": [
+            "test-e2e@anklice.org",
+            "test-e2e@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "5eb27e18-00a6-4478-9fca-637a18592336",
+        "Guid": "8e6ff923-a565-4f8e-a3ff-5f166842edfe",
+        "PrimarySmtpAddress": "test-e2e@anklice.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "test-e2e@kolibrie.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Test-e2e kolibrie",
+        "EmailAddresses": [
+            "test-e2e@kolibrie.org",
+            "test-e2e7042@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "5f75bf8b-d6a8-4619-a9a4-e396d2815886",
+        "Guid": "8f7df4fb-b344-4e55-9e3e-4bed2adf1ca2",
+        "PrimarySmtpAddress": "test-e2e@kolibrie.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "test-e2e@pablees.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Test e2e pablees",
+        "EmailAddresses": [
+            "test-e2e@pablees.org",
+            "test-e2e8647@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "10918719-33bf-49a5-b137-694ab4d5f4f8",
+        "Guid": "7cc6d06d-0d7e-470f-a514-c7940da9443c",
+        "PrimarySmtpAddress": "test-e2e@pablees.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "test-shared-nonzivver1@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "test-shared-nonzivver1",
+        "EmailAddresses": [
+            "test-shared-nonzivver1@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "a0d58ad5-7139-44a1-920f-4bd6438cb119",
+        "Guid": "e7d24ff0-f468-4097-92a6-8e6bc39c3cf4",
+        "PrimarySmtpAddress": "test-shared-nonzivver1@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "test-shared-nonzivver2@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "test-shared-nonzivver2",
+        "EmailAddresses": [
+            "test-shared-nonzivver2@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "6c741db2-2cd2-4414-9a75-82acf2aff34a",
+        "Guid": "50381ce7-225b-4ee8-9e3a-c7d8e07e0803",
+        "PrimarySmtpAddress": "test-shared-nonzivver2@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "test-shared-nonzivver3@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "test-shared-nonzivver3",
+        "EmailAddresses": [
+            "test-shared-nonzivver3@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "a4baf0c4-4d47-446d-9bda-fde5831aacac",
+        "Guid": "ee7332ba-8d21-4a85-bfd6-2e0f56b45771",
+        "PrimarySmtpAddress": "test-shared-nonzivver3@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "test-shared-nonzivver4@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "test-shared-nonzivver4",
+        "EmailAddresses": [
+            "test-shared-nonzivver4@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "1ca657dc-daf9-44e1-853d-1d2ebe430bb5",
+        "Guid": "7b7b07f7-1b0d-4f43-a6c9-fbcbbeb8cb04",
+        "PrimarySmtpAddress": "test-shared-nonzivver4@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "test-shared1@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "test-shared1",
+        "EmailAddresses": [
+            "test-shared1@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "c26d87dc-8c13-4582-8f3a-9969f8ffd44d",
+        "Guid": "b5d524f8-41dc-4be7-a7d5-592ea35fb8f0",
+        "PrimarySmtpAddress": "test-shared1@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "test-shared2@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "test-shared2",
+        "EmailAddresses": [
+            "test-shared2@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "6e602722-a3b9-42c6-bf4e-b49005349d7e",
+        "Guid": "ede548bd-23c9-4085-b7b9-ac71b788a5b4",
+        "PrimarySmtpAddress": "test-shared2@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "test-shared3@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "test-shared3",
+        "EmailAddresses": [
+            "test-shared3@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "805569af-6fc6-46dc-b11d-85d7c8fd66b3",
+        "Guid": "64b4fc66-9600-48e1-959d-f3c2750132a9",
+        "PrimarySmtpAddress": "test-shared3@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "test-shared4@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "test-shared4",
+        "EmailAddresses": [
+            "test-shared4@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "bb729567-b8aa-4533-a5ff-488b23fb599f",
+        "Guid": "d68523c2-2454-417c-80c1-241d31be8d12",
+        "PrimarySmtpAddress": "test-shared4@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "test.account1@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "[Test] Frank Horenberg",
+        "EmailAddresses": [
+            "test.account1@zivvertest.onmicrosoft.com",
+            "test.account.1@zivvertest.onmicrosoft.com",
+            "testaccount1@zivvertest.onmicrosoft.com",
+            "t1@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "8484a701-a343-45d2-811b-e7c12183c8fd",
+        "Guid": "28ddc759-ea5d-488d-a017-37700d2cb5bd",
+        "PrimarySmtpAddress": "test.account1@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "test.kees@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "Test Kees",
+        "EmailAddresses": [
+            "test.kees@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "06280e82-2eab-4916-b945-a707cb495204",
+        "Guid": "9e28c7c6-4ad3-4e8d-9887-ed23416ed7ec",
+        "PrimarySmtpAddress": "test.kees@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "test1@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "test jandv",
+        "EmailAddresses": [
+            "test1@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "eb85ed86-b2af-400d-91b1-1075e3b88e27",
+        "Guid": "04fa14fb-b4dd-4f6e-85fe-4ecb45010a30",
+        "PrimarySmtpAddress": "test1@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "test2@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "test j&v1",
+        "EmailAddresses": [
+            "test2@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "713787ec-b02e-4a52-9819-e11783b3e620",
+        "Guid": "831cd498-aeab-4439-9eab-2131f6ccc2c4",
+        "PrimarySmtpAddress": "test2@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testaccount3@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "[Test] Robbert Klaassen",
+        "EmailAddresses": [
+            "testaccount3@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "1468052a-e02a-4cb4-adee-17e784a381f6",
+        "Guid": "74049f80-8d81-4ab8-a0b6-b633207d2f15",
+        "PrimarySmtpAddress": "testaccount3@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testaccount4@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "[Test] Janneke Bootje",
+        "EmailAddresses": [
+            "testaccount4@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "6e9a8b39-d988-4958-b8ea-cadde7fac313",
+        "Guid": "81145600-91a7-4241-b385-3708c639e86f",
+        "PrimarySmtpAddress": "testaccount4@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testcoconut1@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Testaccount1",
+        "EmailAddresses": [
+            "testcoconut1@zivvertest.onmicrosoft.com",
+            "testcocount1@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "343a87bf-6436-40ea-aa14-33bbad48dd10",
+        "Guid": "66aff454-50c7-4df0-a231-3277dd362751",
+        "PrimarySmtpAddress": "testcoconut1@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testcoconut2@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Testaccount2",
+        "EmailAddresses": [
+            "testcoconut2@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "7ec09f7d-d37f-4a43-9e05-017e59360754",
+        "Guid": "39b65536-132c-4c7e-99cb-f4d2a8827ec6",
+        "PrimarySmtpAddress": "testcoconut2@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testgeof@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Test Geof",
+        "EmailAddresses": [
+            "testgeof@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "4e9144a4-f851-4539-b8ed-549c01dd0141",
+        "Guid": "12d25d24-011e-467a-b309-63f3a73e1210",
+        "PrimarySmtpAddress": "testgeof@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testmax@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Test Max",
+        "EmailAddresses": [
+            "testmax@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "2f29ef5f-a29f-4243-955c-e6d4d7d83810",
+        "Guid": "7768d034-75f3-415e-8859-bd68e4a9b29a",
+        "PrimarySmtpAddress": "testmax@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testplugin.d1@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "testplugin d1",
+        "EmailAddresses": [
+            "testplugin.d1@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "fb9024f6-0856-40ff-bbd4-54b29fba5136",
+        "Guid": "4049dced-f451-463b-9fbd-8df369283df0",
+        "PrimarySmtpAddress": "testplugin.d1@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testplugin.d2@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "testplugin d2",
+        "EmailAddresses": [
+            "testplugin.d2@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "77093e82-6c77-48f5-902b-63ce20719d4c",
+        "Guid": "396908c7-e212-48ed-8b02-ee86fd24bdc7",
+        "PrimarySmtpAddress": "testplugin.d2@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testplugin.d3@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "testplugin d3",
+        "EmailAddresses": [
+            "testplugin.d3@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "cb63d1f1-a076-4dcd-8ac6-7d53521f16ba",
+        "Guid": "57e66f8e-86e7-4309-86ad-04b3142660c6",
+        "PrimarySmtpAddress": "testplugin.d3@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testplugin.d4@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "testplugin d4",
+        "EmailAddresses": [
+            "testplugin.d4@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "7ac42f91-40ec-43c9-b641-4e8ea3f42ea7",
+        "Guid": "38773063-a7d5-4544-9424-23710f1eac59",
+        "PrimarySmtpAddress": "testplugin.d4@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testplugin.d5@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "testplugin d5",
+        "EmailAddresses": [
+            "testplugin.d5@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "b730e9f9-d38b-4340-94ab-db0b27b718bd",
+        "Guid": "89e3ea05-fff7-4570-b3aa-04b9879f8aee",
+        "PrimarySmtpAddress": "testplugin.d5@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testplugin.d6@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "testplugin d6",
+        "EmailAddresses": [
+            "testplugin.d6@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "6bcecc95-0925-4d04-a8a1-b99e49439ed4",
+        "Guid": "ae2d954c-e715-4534-a724-808386c5f38a",
+        "PrimarySmtpAddress": "testplugin.d6@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testplugin.d7@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "testplugin d7",
+        "EmailAddresses": [
+            "testplugin.d7@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "ddb14ff0-c3fa-4efb-a027-2fa175799bc2",
+        "Guid": "8df496f8-45be-4aaf-8646-5b326449383f",
+        "PrimarySmtpAddress": "testplugin.d7@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testplugin.d8@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "testplugin d8",
+        "EmailAddresses": [
+            "testplugin.d8@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "3fe00c42-ad4c-417c-888a-66d34a7d67ec",
+        "Guid": "a8da0c22-c2e0-4706-91b9-2784eb412df1",
+        "PrimarySmtpAddress": "testplugin.d8@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testplugin1@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "test plugin1",
+        "EmailAddresses": [
+            "testplugin1@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "b66618e4-2e9a-4727-9ca7-60c4ed306f45",
+        "Guid": "6fc2f949-b370-43eb-af5d-f2f4983f0bab",
+        "PrimarySmtpAddress": "testplugin1@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testplugin2@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "test plugin2",
+        "EmailAddresses": [
+            "plugin2-alias@zivvertest.onmicrosoft.com",
+            "testplugin2@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "aafc9a89-dcd6-45b1-bccf-f5b17ef703d0",
+        "Guid": "ddf60772-3db1-419b-bc67-920645e8270b",
+        "PrimarySmtpAddress": "testplugin2@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testplugin3@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "test plugin3",
+        "EmailAddresses": [
+            "testplugin3@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "72ffcd50-5993-4dee-8a53-bfae4c4a7f67",
+        "Guid": "6a04c424-38d9-479c-80cd-cd914b74f3b8",
+        "PrimarySmtpAddress": "testplugin3@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testplugin4@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "test plugin4",
+        "EmailAddresses": [
+            "testplugin4@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "74a08988-c81d-4974-93e4-8067d476547a",
+        "Guid": "baf7b1df-30ba-4cb5-a64d-3534a69b0636",
+        "PrimarySmtpAddress": "testplugin4@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testplugin5@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "testplugin 5",
+        "EmailAddresses": [
+            "testplugin5@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "0cd0d32f-e31e-447b-8dc3-9684c8b98b89",
+        "Guid": "5d17bcee-35ed-4445-80d4-9d152af49f83",
+        "PrimarySmtpAddress": "testplugin5@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testplugin6@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "test plugin 6",
+        "EmailAddresses": [
+            "testplugin6@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "2a4f6235-793d-4420-9c86-41359fc76482",
+        "Guid": "fe03cec2-b642-4c10-a34e-ec51354e59cb",
+        "PrimarySmtpAddress": "testplugin6@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testplugin7@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "test plugin7",
+        "EmailAddresses": [
+            "testplugin7@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "27a6a79e-3eca-4501-bb5a-fa4c7b9bb4ff",
+        "Guid": "9532c3a7-b704-4eac-a717-5333486365b9",
+        "PrimarySmtpAddress": "testplugin7@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testplugin8@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "test plugin8",
+        "EmailAddresses": [
+            "testplugin8@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "e2ded319-514f-4918-8b9b-5dc7031942fc",
+        "Guid": "235fcf12-8b5c-4cce-a833-83dfded69f30",
+        "PrimarySmtpAddress": "testplugin8@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "testplugin9@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "test plugin9",
+        "EmailAddresses": [
+            "testplugin9@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "ccb4addb-9cfb-4e44-a6f9-0c5b39c1a757",
+        "Guid": "55069d52-954d-4bb3-98f7-227576a4412d",
+        "PrimarySmtpAddress": "testplugin9@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "tom.schmidt@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Tom Schmidt",
+        "EmailAddresses": [
+            "tom.schmidt@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "78d9a5a3-ff56-466a-b386-4da3abd79485",
+        "Guid": "22e95bb3-2212-45c4-9aa0-0c9b247755ba",
+        "PrimarySmtpAddress": "tom.schmidt@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "tom.vreeswijk@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Tom Vreeswijk",
+        "EmailAddresses": [
+            "tom.vreeswijk@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "12dab598-960a-44e4-a9a5-c41bc3d3c1d8",
+        "Guid": "030f211c-019f-4e5a-967b-fff63b0b01ab",
+        "PrimarySmtpAddress": "tom.vreeswijk@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "tyler.blanton@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Tyler Blanton (by Robin)",
+        "EmailAddresses": [
+            "tyler.blanton@stef.zivvertest.onmicrosoft.com",
+            "tyler@stef.zivvertest.onmicrosoft.com",
+            "tyler.blanton@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "874f5d30-6369-41f0-9fc7-192c62a249cf",
+        "Guid": "30688b74-7671-456a-870d-d763528c2133",
+        "PrimarySmtpAddress": "tyler.blanton@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "user1@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Test User",
+        "EmailAddresses": [
+            "user1@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "817808a6-f5f9-412c-b073-d079d3588337",
+        "Guid": "a84d410f-6108-452f-8b2e-631df0ca8c02",
+        "PrimarySmtpAddress": "user1@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "user2@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Test User2",
+        "EmailAddresses": [
+            "user2@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "53d1d30d-9cf9-449a-971f-a7a68015fe99",
+        "Guid": "cca4a934-fecb-4d42-8343-54b26bce254a",
+        "PrimarySmtpAddress": "user2@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "user3@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Test User3",
+        "EmailAddresses": [
+            "user3@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "ca0262fd-f8e1-4f16-a5aa-cafb168c0102",
+        "Guid": "b0b73e7a-69b7-4410-9326-8ca3ec3d7da1",
+        "PrimarySmtpAddress": "user3@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "user4@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Test User4",
+        "EmailAddresses": [
+            "user4@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "b081bf80-45b2-459d-9959-03d095edd4ee",
+        "Guid": "ef578dd2-75e3-4cae-91a3-e64e5906305e",
+        "PrimarySmtpAddress": "user4@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "user5@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Test User5",
+        "EmailAddresses": [
+            "user5@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "16ba1908-fa26-431b-91a6-8c197d441662",
+        "Guid": "a47fd4fa-0679-45b5-be1c-bb4c214db2e2",
+        "PrimarySmtpAddress": "user5@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "user6@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Test User6",
+        "EmailAddresses": [
+            "user6@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "be94aae3-6411-4b66-ad4d-e67eab876927",
+        "Guid": "e9f4288d-b112-415f-861a-199b4b166dbd",
+        "PrimarySmtpAddress": "user6@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "userpropertiestest@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "UserPropertiesTest",
+        "EmailAddresses": [
+            "userpropertiestest@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "454e8299-e1c7-48d2-a9ba-4b353263d8b9",
+        "Guid": "4dc29a5d-bc86-4175-bc0c-207fc60a9c98",
+        "PrimarySmtpAddress": "userpropertiestest@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "valentin.henry@anklice.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Valentin Henry",
+        "EmailAddresses": [
+            "valentin.henry@anklice.org",
+            "valentin.henry@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "4407759a-1fca-4256-bb9a-644874aadb12",
+        "Guid": "c7afcf46-2a2b-46df-ab45-38912a2d25c1",
+        "PrimarySmtpAddress": "valentin.henry@anklice.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "valentin.henry@pablees.org": {
+        "AccountDisabled": false,
+        "DisplayName": "Valentin Henry",
+        "EmailAddresses": [
+            "valentin.henry@pablees.org",
+            "valentin.henry4829@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "4601aab4-12eb-41eb-b887-bdcb8b4dda11",
+        "Guid": "4fab5a71-6d19-40ba-816b-de8b012877b2",
+        "PrimarySmtpAddress": "valentin.henry@pablees.org",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "varsha.tiwari@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Varsha Tiwari",
+        "EmailAddresses": [
+            "varsha.tiwari@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "ed230fad-3222-45b4-856b-f2cffffae498",
+        "Guid": "aa72d768-1723-4c33-af4b-65ecf36c765a",
+        "PrimarySmtpAddress": "varsha.tiwari@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "vasilis.prantzos@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Vasilis Prantzos",
+        "EmailAddresses": [
+            "vasilis.prantzos@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "a35b41d2-6020-4287-897a-ccde9ceb6e0a",
+        "Guid": "b628878d-019c-4d1e-abf1-22400b091283",
+        "PrimarySmtpAddress": "vasilis.prantzos@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "vladimir.manolache@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Vladimir Manolache",
+        "EmailAddresses": [
+            "vladimir.manolache@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "c1adf758-3d16-498b-ac55-7043bd9c4cd1",
+        "Guid": "788eecc5-a508-45f6-9ba0-31b0cc10c8c8",
+        "PrimarySmtpAddress": "vladimir.manolache@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "warco.vanderwaal@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Warco van der Waal",
+        "EmailAddresses": [
+            "warco.vanderwaal@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "a6aacebf-f5fe-402c-b025-e49f8922abbe",
+        "Guid": "79f6d862-c628-4580-b1ed-4bf7b5dfd1eb",
+        "PrimarySmtpAddress": "warco.vanderwaal@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "zivverpoc@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": false,
+        "DisplayName": "Zivver POC",
+        "EmailAddresses": [
+            "zivverpoc@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "0c6d1457-c7f2-4c68-83bc-786b630bd91f",
+        "Guid": "cbce601e-4d35-426a-a5e1-554cf563c246",
+        "PrimarySmtpAddress": "zivverpoc@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "UserMailbox"
+    },
+    "zofp-test-shared1@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "zofp-test-shared1",
+        "EmailAddresses": [
+            "zofp-test-shared1@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "842a0356-092f-4371-a41c-71bf18b3630b",
+        "Guid": "7a22e2db-d31a-4002-bfba-0dd34f7d653f",
+        "PrimarySmtpAddress": "zofp-test-shared1@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    },
+    "zofp-test-shared@zivvertest.onmicrosoft.com": {
+        "AccountDisabled": true,
+        "DisplayName": "zofp-test-shared",
+        "EmailAddresses": [
+            "zofp-test-shared@zivvertest.onmicrosoft.com"
+        ],
+        "ExternalDirectoryObjectId": "1dcbcf1b-c596-4033-8049-0592a04f1e20",
+        "Guid": "e40f8db9-457d-4387-b076-32c013ba01e8",
+        "PrimarySmtpAddress": "zofp-test-shared@zivvertest.onmicrosoft.com",
+        "RecipientTypeDetails": "SharedMailbox"
+    }
+}

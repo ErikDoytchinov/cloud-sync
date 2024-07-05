@@ -1,0 +1,455 @@
+[
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dGVzdC1zaGFyZWQtbm9ueml2dmVyMUB6aXZ2ZXJ0ZXN0Lm9ubWljcm9zb2Z0LmNvbQ%3D%3D')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "test-shared-nonzivver1",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [
+                    {"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "None"},
+                    {"ChangedProperties": [], "AccessRights": ["FullAccess", "ExternalAccount", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "Descendents"}
+                ]
+            },
+            {
+                "PermissionId": "dGVzdHBsdWdpbjJAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20=",
+                "MailboxIdentity": "test-shared-nonzivver1",
+                "User": "testplugin2@zivvertest.onmicrosoft.com",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dGVzdC1zaGFyZWQtbm9ueml2dmVyMkB6aXZ2ZXJ0ZXN0Lm9ubWljcm9zb2Z0LmNvbQ%3D%3D')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "test-shared-nonzivver2",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [
+                    {"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "None"},
+                    {"ChangedProperties": [], "AccessRights": ["FullAccess", "ExternalAccount", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "Descendents"}
+                ]
+            },
+            {
+                "PermissionId": "dGVzdHBsdWdpbjJAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20=",
+                "MailboxIdentity": "test-shared-nonzivver2",
+                "User": "testplugin2@zivvertest.onmicrosoft.com",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dGVzdC1zaGFyZWQtbm9ueml2dmVyM0B6aXZ2ZXJ0ZXN0Lm9ubWljcm9zb2Z0LmNvbQ%3D%3D')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "test-shared-nonzivver320230802085415",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [
+                    {"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "None"},
+                    {"ChangedProperties": [], "AccessRights": ["FullAccess", "ExternalAccount", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "Descendents"}
+                ]
+            },
+            {
+                "PermissionId": "dGVzdHBsdWdpbjlAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20=",
+                "MailboxIdentity": "test-shared-nonzivver320230802085415",
+                "User": "testplugin9@zivvertest.onmicrosoft.com",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dGVzdC1zaGFyZWQtbm9ueml2dmVyNEB6aXZ2ZXJ0ZXN0Lm9ubWljcm9zb2Z0LmNvbQ%3D%3D')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "test-shared-nonzivver420230802085454",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [
+                    {"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "None"},
+                    {"ChangedProperties": [], "AccessRights": ["FullAccess", "ExternalAccount", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "Descendents"}
+                ]
+            },
+            {
+                "PermissionId": "dGVzdHBsdWdpbjlAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20=",
+                "MailboxIdentity": "test-shared-nonzivver420230802085454",
+                "User": "testplugin9@zivvertest.onmicrosoft.com",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dGVzdC1zaGFyZWQxQHppdnZlcnRlc3Qub25taWNyb3NvZnQuY29t')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "test-shared1",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [
+                    {"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "None"},
+                    {"ChangedProperties": [], "AccessRights": ["FullAccess", "ExternalAccount", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "Descendents"}
+                ]
+            },
+            {
+                "PermissionId": "dGVzdHBsdWdpbjJAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20=",
+                "MailboxIdentity": "test-shared1",
+                "User": "testplugin2@zivvertest.onmicrosoft.com",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dGVzdC1zaGFyZWQyQHppdnZlcnRlc3Qub25taWNyb3NvZnQuY29t')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "test-shared2",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [
+                    {"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "None"},
+                    {"ChangedProperties": [], "AccessRights": ["FullAccess", "ExternalAccount", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "Descendents"}
+                ]
+            },
+            {
+                "PermissionId": "dGVzdHBsdWdpbjJAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20=",
+                "MailboxIdentity": "test-shared2",
+                "User": "testplugin2@zivvertest.onmicrosoft.com",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dGVzdC1zaGFyZWQzQHppdnZlcnRlc3Qub25taWNyb3NvZnQuY29t')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "test-shared320230802085208",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [
+                    {"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "None"},
+                    {"ChangedProperties": [], "AccessRights": ["FullAccess", "ExternalAccount", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "Descendents"}
+                ]
+            },
+            {
+                "PermissionId": "dGVzdHBsdWdpbjhAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20=",
+                "MailboxIdentity": "test-shared320230802085208",
+                "User": "testplugin8@zivvertest.onmicrosoft.com",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dGVzdC1zaGFyZWQ0QHppdnZlcnRlc3Qub25taWNyb3NvZnQuY29t')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "test-shared420230802085254",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [
+                    {"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "None"},
+                    {"ChangedProperties": [], "AccessRights": ["FullAccess", "ExternalAccount", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "Descendents"}
+                ]
+            },
+            {
+                "PermissionId": "dGVzdHBsdWdpbjhAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20=",
+                "MailboxIdentity": "test-shared420230802085254",
+                "User": "testplugin8@zivvertest.onmicrosoft.com",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('cm9iaW4ub3R0ZW5ob2ZAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20%3D')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "Test Account",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dXNlcjFAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20%3D')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "Test User",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dXNlcjJAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20%3D')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "Test User2",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dXNlcjNAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20%3D')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "Test User3",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dXNlcjRAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20%3D')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "Test User4",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dXNlcjVAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20%3D')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "Test User5",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dXNlcjZAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20%3D')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "Test User6",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dGVzdDFAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20%3D')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "test1",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dGVzdDJAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20%3D')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "test2",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('VGVzdC5BY2NvdW50MUB6aXZ2ZXJ0ZXN0Lm9ubWljcm9zb2Z0LmNvbQ%3D%3D')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "testaccount1",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            },
+            {
+                "PermissionId": "dGVzdGFjY291bnQ0QHppdnZlcnRlc3Qub25taWNyb3NvZnQuY29t",
+                "MailboxIdentity": "testaccount1",
+                "User": "testaccount4@zivvertest.onmicrosoft.com",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            },
+            {
+                "PermissionId": "dGVzdGFjY291bnQzQHppdnZlcnRlc3Qub25taWNyb3NvZnQuY29t",
+                "MailboxIdentity": "testaccount1",
+                "User": "testaccount3@zivvertest.onmicrosoft.com",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            },
+            {
+                "PermissionId": "YW51YmhhLmFnYXJ3YWxAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20=",
+                "MailboxIdentity": "testaccount1",
+                "User": "anubha.agarwal@zivvertest.onmicrosoft.com",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            },
+            {
+                "PermissionId": "c3RlZi5tb29pakB6aXZ2ZXJ0ZXN0Lm9ubWljcm9zb2Z0LmNvbQ==",
+                "MailboxIdentity": "testaccount1",
+                "User": "stef.mooij@zivvertest.onmicrosoft.com",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            },
+            {
+                "PermissionId": "cnVjaGlrYS5qYWdvdHRhQHppdnZlcnRlc3Qub25taWNyb3NvZnQuY29t",
+                "MailboxIdentity": "testaccount1",
+                "User": "ruchika.jagotta@zivvertest.onmicrosoft.com",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            },
+            {
+                "PermissionId": "T1JHLnJ1Y2hpa2FAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20=",
+                "MailboxIdentity": "testaccount1",
+                "User": "ORG.ruchika@zivvertest.onmicrosoft.com",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dGVzdGNvY29udXQyQHppdnZlcnRlc3Qub25taWNyb3NvZnQuY29t')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "testcoconut2",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dGVzdGNvY29udXQxQHppdnZlcnRlc3Qub25taWNyb3NvZnQuY29t')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "testcocount1",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dHlsZXIuYmxhbnRvbkB6aXZ2ZXJ0ZXN0Lm9ubWljcm9zb2Z0LmNvbQ%3D%3D')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "tyler.blanton",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('VXNlclByb3BlcnRpZXNUZXN0QHppdnZlcnRlc3Qub25taWNyb3NvZnQuY29t')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "UserPropertiesTest",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [
+                    {"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "None"},
+                    {"ChangedProperties": [], "AccessRights": ["FullAccess", "ExternalAccount", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "Descendents"}
+                ]
+            },
+            {
+                "PermissionId": "cmljay5nb3VkQHppdnZlcnRlc3Qub25taWNyb3NvZnQuY29t",
+                "MailboxIdentity": "UserPropertiesTest",
+                "User": "rick.goud@zivvertest.onmicrosoft.com",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            },
+            {
+                "PermissionId": "cm9iaW4ub3R0ZW5ob2ZAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20=",
+                "MailboxIdentity": "UserPropertiesTest",
+                "User": "robin.ottenhof@zivvertest.onmicrosoft.com",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            },
+            {
+                "PermissionId": "amFuLWFyaWVAeml2dmVydGVzdC5vbm1pY3Jvc29mdC5jb20=",
+                "MailboxIdentity": "UserPropertiesTest",
+                "User": "jan-arie@zivvertest.onmicrosoft.com",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            },
+            {
+                "PermissionId": "dG9tLnZyZWVzd2lqa0B6aXZ2ZXJ0ZXN0Lm9ubWljcm9zb2Z0LmNvbQ==",
+                "MailboxIdentity": "UserPropertiesTest",
+                "User": "tom.vreeswijk@zivvertest.onmicrosoft.com",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dmFzaWxpcy5wcmFudHpvc0B6aXZ2ZXJ0ZXN0Lm9ubWljcm9zb2Z0LmNvbQ%3D%3D')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "vasilis.prantzos",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('dmxhZGltaXIubWFub2xhY2hlQHppdnZlcnRlc3Qub25taWNyb3NvZnQuY29t')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "vladimir.manolache",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    },
+    {
+        "@odata.context": "https://outlook.office365.com/adminapi/beta/c3ea126d-08dd-4b6a-a23a-4a513160c11e/$metadata#Mailbox('eml2dmVycG9jQHppdnZlcnRlc3Qub25taWNyb3NvZnQuY29t')/MailboxPermission",
+        "value": [
+            {
+                "PermissionId": "TlQgQVVUSE9SSVRZXFNFTEY=",
+                "MailboxIdentity": "zivverpoc",
+                "User": "NT AUTHORITY\\SELF",
+                "IsOwner": false,
+                "PermissionList": [{"ChangedProperties": [], "AccessRights": ["FullAccess", "ReadPermission"], "IsInherited": false, "Deny": false, "InheritanceType": "All"}]
+            }
+        ]
+    }
+]
